@@ -1,0 +1,19 @@
+{
+  "name": "datascience2023",
+  "version": "1.0.0",
+  "description": "作者：贺云航",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdaChenScience/Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdaChenScience/Project/issues"
+  },
+  "homepage": "https://github.com/AdaChenScience/Project#readme"
+}
